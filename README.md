@@ -16,5 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfxiron&layout=compact&theme=radical)
 
 <p align="center">
-  <img src="https://github.com/selfxiron/selfxiron/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/selfxiron/selfxiron/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
