@@ -1,4 +1,4 @@
-### Hey, I'm Jeet (aka selfxiron) 👨‍💻
+### Hey 👋, I'm Jeet Pratap Singh Rajput (aka selfxiron) 👨‍💻
 
 💡 20 y/o self-taught developer  
 ⚡ I love building tools, tweaking Linux, and writing powerful Python scripts  
