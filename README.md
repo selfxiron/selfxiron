@@ -5,3 +5,9 @@
 🧠 Good at math, obsessed with creating and experimenting
 
 > "I don't just use the machine — I *talk* to it."
+
+### ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
