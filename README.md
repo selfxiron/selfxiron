@@ -12,4 +12,5 @@
 ![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 
-![GitHub Snake](https://github.com/selfxiron/selfxiron/blob/output/github-contribution-grid-snake.svg)
+![selfxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selfxiron&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfxiron&layout=compact&theme=radical)
